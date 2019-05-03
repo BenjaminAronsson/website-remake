@@ -1,0 +1,109 @@
+ body {
+      font: 20px Montserrat, sans-serif;
+      line-height: 1.8;
+      color: red;
+  }
+  p {font-size: 16px;}
+  .margin {margin-bottom: 45px;}
+  .bg-1 { 
+      background-color: white ; /* Green */
+      color: ##B20000;
+      padding: 20px;
+      margin-top: 180px;
+  }
+
+  .bg-1 p {
+  	color: black;
+  	text-align: left;
+
+  }
+
+  .bg-2 { 
+      background-color: black; /* Dark Blue */
+      color: #ffffff;
+  }
+
+  .bg-3 { 
+      background-color: lightgrey; /* Dark Blue */
+      color: #ffffff;
+  }
+
+  .bg-3 h3{ 
+      background-color: lightgrey; /* White */
+      color: black
+      
+  }
+  .bg-4 { 
+      background-color: #B20000; /* Black Gray */
+      color: white;
+      margin-top: 15px;
+  }
+
+  .container-fluid {
+      padding-top: 10px;
+      padding-bottom: 10px;
+  }
+  .navbar {
+      padding-top: 15px;
+      padding-bottom: 15px;
+      border: 0;
+      border-radius: 0;
+      margin-bottom: 0;
+      font-size: 12px;
+      font-weight: bold;
+      letter-spacing: 5px;
+  }
+  .navbar-nav  li a:hover {
+      color: red !important;
+      
+
+  }
+
+.bg-3 p {
+    color: black;
+}
+
+.bg-3 a {
+    color: #B20000;
+}
+
+.bg-3 a :hover {
+    color: white;
+} 
+
+.bg-3 p :hover {
+    color: white;
+} 
+
+.bg-4 a :hover {
+    color: white;
+} 
+
+.bg-4 p :hover {
+    color: white;
+} 
+
+.bg-4 a {
+	color: black;
+	text-align: center;
+}
+.bg-4 p {
+	color: black;
+	text-align: center;
+}
+
+a.navbar-brand {
+	color:  #B20000;
+}
+
+ .navbar-nav  li a{
+    color: grey !important;
+    border-radius: 4px !important;
+    border-color: green !important;
+    font-size: 14px;
+}
+
+.navbar-default .navbar-brand {
+    color: red !important;
+     font-size: 24px;
+}

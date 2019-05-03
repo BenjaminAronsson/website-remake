@@ -1,0 +1,159 @@
+ body {
+      font-family: 'Anton', sans-serif:;
+      /*font: 20px Montserrat, sans-serif;*/
+      line-height: 1.8;
+      
+  }
+  p {font-size: 16px;}
+  .margin {margin-bottom: 45px;}
+  .bg-1 { 
+      background-color: #A4936C; /* ljus beage */
+      color: ##B20000;
+      padding: 20px;
+      margin-top: 180px;
+
+  }
+
+  .bg-1 p {
+  	color: black;
+  	text-align: left;
+
+  }
+
+  .col-sm-8 {
+margin-top: 100px;
+
+  }
+  
+  .margin {
+margin-top: 100px;
+
+  }
+  .col-sm-4 {
+    margin-top: 0px;
+    width: 30%;
+    border-radius: 25px;
+    background: #8C7D5B;
+    padding: 5px;
+    margin-right: 0px;
+    
+    
+}
+
+.col-sm-2 {
+    margin-top: 100px;
+    width: 30% !important;
+    border-radius: 25px;
+    background: #8C7D5B;
+    padding: 15px;
+}
+  
+
+  .bg-2 { 
+      background-color: black; /* black */
+      color: #ffffff;
+  }
+
+  .bg-3 { 
+      background-color: #A4936C; /* ljus beage */
+      color: #ffffff;
+  }
+
+  .bg-3 h3{ 
+      background-color: #A4936C; /* ljus beage */
+      color: black
+      
+  }
+  .bg-4 { 
+      background-color: #8C7D5B; /* mörk beage */
+      color: white;
+      margin-top: 15px;
+      padding-top: 5px;
+  }
+
+  .container-fluid {
+      padding-top: 20px;
+      padding-bottom: 10px;
+      margin-bottom: 5px;
+      margin-top: 40px;
+
+  }
+  .navbar {
+      padding-top: 15px;
+      padding-bottom: 15px;
+      border: 0;
+      border-radius: 0;
+      margin-bottom: 0;
+      font-size: 12px;
+      font-weight: bold;
+      letter-spacing: 5px;
+  }
+  .navbar-nav  li a:hover {
+      color:  #580302 !important;
+      
+
+  }
+
+.bg-3 p {
+    color: black;
+}
+
+.bg-3 a {
+    color: #970911;
+}
+
+.bg-3 a :hover {
+    color: white;
+} 
+
+.bg-3 p :hover {
+    color: #970911;
+} 
+
+.bg-4 a :hover {
+    color: white;
+} 
+
+.bg-4 p :hover {
+    color: #580302;
+} 
+
+.bg-4 a {
+	color: black;
+	text-align: center;
+}
+.bg-4 p {
+	color: black;
+	text-align: center;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+a.navbar-brand {
+	color:  #B20000;
+}
+
+.navbar-nav li a:hover {
+    color: #A4936C !important;
+    background-color: #580302 !important;
+}
+
+ .navbar-nav  li a{
+    color:  #580302 !important;
+    border-radius: 4px !important;
+    border-color: black !important;
+    font-size: 14px;
+}
+
+.navbar-default
+{
+background-color: #8C7D5B !important;
+
+}
+
+.navbar-default .navbar-brand {
+    color:    #000 !important;
+     font-size: 24px;
+}
